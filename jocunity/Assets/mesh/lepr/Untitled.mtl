@@ -1,0 +1,501 @@
+# Blender 4.4.3 MTL File: 'None'
+# www.blender.org
+
+newmtl Tongue
+Ns 654.628113
+Ka 1.000000 1.000000 1.000000
+Ks 0.927273 0.927273 0.927273
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd E:/Downloads/low-poly-tongue/textures/tongue_texture.png
+
+newmtl bowtie
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.052210 0.000353
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl cloth
+Ns 79.999985
+Ka 1.000000 1.000000 1.000000
+Kd 0.403922 0.298039 0.298039
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl eye_reflect
+Ns 219.674210
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.427687 0.468583 0.024503
+Ni 1.500000
+d 0.009091
+illum 1
+
+newmtl eyeballs
+Ns 676.880127
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd E:/Downloads/eye-pbr-test-downloadable/textures/EyeWhite-diffuse.png
+
+newmtl fingernail
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.214032 0.080726 0.017802
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl glasses
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl gold
+Ns 370.991760
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.404007 0.111754
+Ks 0.240909 0.240909 0.240909
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl gold_M
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl goldjewelry_M
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl googles1
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl greenfabric_MI
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.002307 0.076567 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl gums
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.429220 0.116167 0.215324
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl hair_color
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.650005 0.117408 0.005127
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl hat_M
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl inside_mouth
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.057798 0.003899 0.000185
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl jewelry
+Ns 635.682983
+Ka 0.990991 0.990991 0.990991
+Kd 0.800000 0.450750 0.000000
+Ks 0.472973 0.472973 0.472973
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl leather
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl leprechaunface
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd proj/leprechaun (2)/source/lepface.png
+
+newmtl main_suit_jacket
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.892275 0.693777 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl mat_top_rand
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.300000 0.300000 0.300000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/zzook/Downloads/shoe.fbm/start_mesh8_mat_top_rand_BaseColor.jpg
+map_refl C:/Users/zzook/Downloads/shoe.fbm/start_mesh8_mat_top_rand_Metallic.jpg
+map_Bump -bm 1.000000 C:/Users/zzook/Downloads/shoe.fbm/start_mesh8_mat_top_rand_Normal.jpg
+
+newmtl mesh_0_0_0
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd -o 0 -1 0 C:/Users/zzook/Downloads/r_modi_out/r_modi00.fbm/tx_baldur00_braid_diffuse_14c09d1e2347f9a6out.png
+map_d -o 0 -1 0 C:/Users/zzook/Downloads/r_modi_out/r_modi00.fbm/tx_baldur00_braid_diffuse_14c09d1e2347f9a6out.png
+
+newmtl mesh_10_1_0
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd -o 0 -1 0 C:/Users/zzook/Downloads/r_modi_out/r_modi00.fbm/tx_modi_beardcap_diffuse_cfd4265b770f0ef2out.png
+map_d -o 0 -1 0 C:/Users/zzook/Downloads/r_modi_out/r_modi00.fbm/tx_modi_beardcap_diffuse_cfd4265b770f0ef2out.png
+map_Bump -o 0 -1 0 -bm 1.000000 C:/Users/zzook/Downloads/r_modi_out/r_modi00.fbm/tx_modi_beardcap_normal_002d1c667110047bout.png
+
+newmtl mesh_36_0_0
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd -o 0 -1 0 C:/Users/zzook/Downloads/r_modi_out/r_modi00.fbm/tx_modi00_hairb_d_4c9dbc7ffc509f14out.png
+map_d -o 0 -1 0 C:/Users/zzook/Downloads/r_modi_out/r_modi00.fbm/tx_modi00_hairb_d_4c9dbc7ffc509f14out.png
+map_Bump -o 0 -1 0 -bm 1.000000 C:/Users/zzook/Downloads/r_modi_out/r_modi00.fbm/tx_modi00_hairb_n_d32270a6c96c0983out.png
+
+newmtl mesh_52_0_0
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd -o 0 -1 0 C:/Users/zzook/Downloads/r_modi_out/r_modi00.fbm/tx_baldur00_eyeinner_d_0ee85ae8f7df2815out.png
+map_d -o 0 -1 0 C:/Users/zzook/Downloads/r_modi_out/r_modi00.fbm/tx_baldur00_eyeinner_d_0ee85ae8f7df2815out.png
+map_Bump -o 0 -1 0 -bm 1.000000 C:/Users/zzook/Downloads/r_modi_out/r_modi00.fbm/tx_standardeye00_inner_n_ecd844c7e5e8e751out.png
+
+newmtl mesh_54_0_0
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd -o 0 -1 0 C:/Users/zzook/Downloads/r_modi_out/r_modi00.fbm/tx_modi00_face_[0_2]_diffuse_287566af7a89f274out.png
+map_d -o 0 -1 0 C:/Users/zzook/Downloads/r_modi_out/r_modi00.fbm/tx_modi00_face_[0_2]_diffuse_287566af7a89f274out.png
+map_Bump -o 0 -1 0 -bm 1.000000 C:/Users/zzook/Downloads/r_modi_out/r_modi00.fbm/tx_wrinklemap2_0550ce2ff8d8371aout.png
+
+newmtl mesh_56_0_0
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd -o 0 -1 0 C:/Users/zzook/Downloads/r_modi_out/r_modi00.fbm/tx_standardmouthnpc_tongue_diffuse_451cf06f9c6f553eout.png
+map_d -o 0 -1 0 C:/Users/zzook/Downloads/r_modi_out/r_modi00.fbm/tx_standardmouthnpc_tongue_diffuse_451cf06f9c6f553eout.png
+
+newmtl mesh_57_0_0
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd -o 0 -1 0 C:/Users/zzook/Downloads/r_modi_out/r_modi00.fbm/tx_standardeye00_lacrimal_d_4a42ce4b3816b625out.png
+map_d -o 0 -1 0 C:/Users/zzook/Downloads/r_modi_out/r_modi00.fbm/tx_standardeye00_lacrimal_d_4a42ce4b3816b625out.png
+map_Bump -o 0 -1 0 -bm 1.000000 C:/Users/zzook/Downloads/r_modi_out/r_modi00.fbm/tx_standardeye00_lacrimal_n_b72cf570302e4924out.png
+
+newmtl mesh_58_0_0
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.219608 0.156863 0.094118
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_d -o 0 -1 0 C:/Users/zzook/Downloads/r_modi_out/r_modi00.fbm/tx_jotunn_04_eyes_n_5b7a2c35ded3a076out.png
+
+newmtl mesh_63_0_0
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd -o 0 -1 0 C:/Users/zzook/Downloads/r_modi_out/r_modi00.fbm/tx_standardmouthnpc_teeth_diffuse_8003afa28d9520cbout.png
+map_d -o 0 -1 0 C:/Users/zzook/Downloads/r_modi_out/r_modi00.fbm/tx_standardmouthnpc_teeth_diffuse_8003afa28d9520cbout.png
+map_Bump -o 0 -1 0 -bm 1.000000 C:/Users/zzook/Downloads/r_modi_out/r_modi00.fbm/tx_thor00_costume_cape_[0_6]_normal_0c6ed0b315324590out.png
+
+newmtl mesh_8_0_0
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd -o 0 -1 0 C:/Users/zzook/Downloads/r_modi_out/r_modi00.fbm/tx_kratos_eyebrow1_d_80313e0ec6d56ab0out.png
+map_d -o 0 -1 0 C:/Users/zzook/Downloads/r_modi_out/r_modi00.fbm/tx_kratos_eyebrow1_d_80313e0ec6d56ab0out.png
+map_Bump -o 0 -1 0 -bm 1.000000 C:/Users/zzook/Downloads/r_modi_out/r_modi00.fbm/tx_kratos_eyebrow1_n_a6ac7a14441a0544out.png
+
+newmtl metallic
+Ka 1.000000 1.000000 1.000000
+Ks 0.299296 0.299296 0.299296
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/zzook/Downloads/shoe.fbm/start_mesh8_mat_top_schnalle_BaseColor.jpg
+map_Ns C:/Users/zzook/Downloads/shoe.fbm/start_mesh8_mat_top_schnalle_Roughness.jpg
+map_refl C:/Users/zzook/Downloads/shoe.fbm/start_mesh8_mat_top_schnalle_Metallic.jpg
+map_Bump -bm 1.000000 C:/Users/zzook/Downloads/shoe.fbm/start_mesh8_mat_top_schnalle_Normal.jpg
+
+newmtl pants
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.017459 0.146494 0.050954
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl pupil
+Ns 761.652893
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd -s -1.1999998 1 1 E:/Downloads/eye-pbr-test-downloadable/textures/EyePupil-diffuse.png
+
+newmtl shoe_band
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/zzook/Downloads/shoe.fbm/start_mesh8_mat_top_band_BaseColor.jpg
+map_Ns C:/Users/zzook/Downloads/shoe.fbm/start_mesh8_mat_top_band_Roughness.jpg
+map_refl C:/Users/zzook/Downloads/shoe.fbm/start_mesh8_mat_top_band_Metallic.jpg
+map_Bump -bm 1.000000 C:/Users/zzook/Downloads/shoe.fbm/start_mesh8_mat_top_band_Normal.jpg
+
+newmtl shoe_heel
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/zzook/Downloads/shoe.fbm/start_mesh8_mat_hacke_side_BaseColor.jpg
+map_Ns C:/Users/zzook/Downloads/shoe.fbm/start_mesh8_mat_hacke_side_Roughness.jpg
+map_refl proj/leprechaun (2)/source/heel_met.jpg
+map_Bump -bm 1.000000 proj/leprechaun (2)/source/heel_norm.jpg
+
+newmtl shoe_main
+Ka 1.000000 1.000000 1.000000
+Ks 0.577465 0.577465 0.577465
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/zzook/Downloads/shoe.fbm/start_mesh8_mat_top_BaseColor.jpg
+map_Ns C:/Users/zzook/Downloads/shoe.fbm/start_mesh8_mat_top_Roughness.jpg
+map_refl C:/Users/zzook/Downloads/shoe.fbm/start_mesh8_mat_top_Metallic.jpg
+map_Bump -bm 1.000000 C:/Users/zzook/Downloads/shoe.fbm/start_mesh8_mat_top_Normal.jpg
+
+newmtl shoe_sole
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd proj/leprechaun (2)/source/sole_alb.jpg
+map_Ns proj/leprechaun (2)/source/sole_rough.jpg
+map_refl C:/Users/zzook/Downloads/shoe.fbm/start_mesh8_mat_sole_Metallic.jpg
+map_Bump -bm 1.000000 proj/leprechaun (2)/source/sole_norm.jpg
+
+newmtl skin
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.451914 0.235434
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns proj/leprechaun (2)/source/lep_head_roughness.png
+
+newmtl skull
+Ns 79.999985
+Ka 1.000000 1.000000 1.000000
+Kd 0.550000 0.550000 0.550000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl socks
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd proj/leprechaun (2)/source/socks_alb.jpg
+
+newmtl sole_M
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.061246 0.045186 0.020289
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl suit_jacket_sleeves
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.076185 0.084376 0.026241
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl teeth
+Ns 785.640503
+Ka 0.027273 0.027273 0.027273
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd proj/leprechaun (2)/source/teeth.png
+
+newmtl tuxedo
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.030531 0.102468 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl undershirt
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.123642 0.123705 0.006836
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl vest
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd proj/leprechaun (2)/source/vest_alb.jpg
+
+newmtl weapons
+Ns 79.999985
+Ka 1.000000 1.000000 1.000000
+Kd 0.380392 0.454902 0.760784
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
